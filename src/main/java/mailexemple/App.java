@@ -8,6 +8,7 @@ public class App {
 
 	private static ApplicationContext context;
 //test
+	//test1
 	public static void main(String[] args) {
 		context = new ClassPathXmlApplicationContext(
 				"applicationContext.xml");

@@ -12,6 +12,7 @@ public class App {
 	//test25645
 	//test3
 	//test4
+	//test5
 	public static void main(String[] args) {
 		context = new ClassPathXmlApplicationContext(
 				"applicationContext.xml");
